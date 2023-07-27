@@ -1,5 +1,6 @@
 package conversores;
 
+import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class ConversorMoneda {
@@ -33,6 +34,17 @@ public class ConversorMoneda {
         double totalMonedas = cantidadIngresada * proporcionMoneda;
         System.out.println("Total: "+ totalMonedas+ " " +unidadDestino);
 
+    }
+
+
+    public static double conversionDeMonedaGUI(String unidadOrigen, String unidadDestino,
+                                          double proporcionMoneda, double cantidadMonedaAConvertir){
+        System.out.println("Elegiste la opcion de convertir de "+ unidadOrigen+ " A "+unidadDestino);
+        double totalMonedas = cantidadMonedaAConvertir * proporcionMoneda;
+        // Redondear el resultado a dos dígitos después del punto
+        double resultadoFormateado = Math.round(totalMonedas * 100.0) / 100.0;
+        //System.out.println("Total: "+ totalMonedas+ " " +unidadDestino);
+        return resultadoFormateado;
     }
 
 }

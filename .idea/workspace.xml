@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5f30ec6-b6f9-49df-94a0-a1b691e72531" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConversorJavaGUI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversorMonedaInterfazGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversorT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conversores/ConversorMoneda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conversores/ConversorTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversorTemperaturaGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ConversorJavaGUI/ConversorT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ConversorJavaGUI/ConversorT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ConversorJavaGUI/conversores/ConversorMoneda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ConversorJavaGUI/conversores/ConversorMoneda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConversorMonedaInterfazGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConversorMonedaInterfazGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conversores/ConversorMoneda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conversores/ConversorMoneda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +39,24 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Hp01/OneDrive/Escritorio/Cursos/Alura/JavaBackend/ProyectJavaGUI_SwingCocaCola"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp01/OneDrive/Escritorio/Cursos/Alura/JavaBackend/Conversor&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ConversorT">
+}</component>
+  <component name="RunManager" selected="Application.ConversorMonedaInterfazGUI">
     <configuration name="ConversorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConversorApp" />
+      <module name="ConversorJavaGUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConversorMonedaInterfazGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversorMonedaInterfazGUI" />
       <module name="ConversorJavaGUI" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,8 +69,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConversorTemperaturaGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversorTemperaturaGUI" />
+      <module name="ConversorJavaGUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConversorMonedaInterfazGUI" />
+        <item itemvalue="Application.ConversorTemperaturaGUI" />
         <item itemvalue="Application.ConversorT" />
         <item itemvalue="Application.ConversorApp" />
       </list>
