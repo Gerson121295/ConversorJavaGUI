@@ -251,8 +251,8 @@ License: [MIT](License.txt)
 
 
 # Conclusión
-    Este proyecto fue interesante ya casi nunca habia utilizado Java Swing la cual permite dejar volar la imaginacion, al momeno de crear las interfaces del usuario y agregarle eventos a los botones.
-    Es la primera vez que realizó un readme.md es lo que mas tiempo me tomó y no quedó tan bonito.
+    Este proyecto fue muy interesante ya que nunca habia utilizado Java con interfaces (solo la de consola "CLI"), y describi que la biblioteca java Swing sirve para las interfaces, por lo que me tocó investigar sobre como utilizarla para crear las interfaces de usuario, deje volar la imaginacion al momeno de crear las interfaces del usuario y agregarle eventos a los botones.
+    para finalizar quiero comentar que es la primera vez que realizó un readme.md, es lo que mas tiempo me tomó y no quedó tan bonito :(. En fin gracias a este proyecto descubri y aprendí muchas cosas durante el desarrollo.
 
 
 
