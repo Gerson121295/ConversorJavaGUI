@@ -5,32 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5f30ec6-b6f9-49df-94a0-a1b691e72531" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-Temperatura-Funcionamiento1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-Temperatura-Funcionamiento2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-Temperatura-Funcionamiento3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-Temperatura-Funcionamiento4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-Temperatura-Funcionamiento5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-Temperatura-Funcionamiento6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-Temperatura-Funcionamiento7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-Temperatura-MenuAcercaDe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-Temperatura-MenuAcercaDe2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-Temperatura-Principal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-moneda-Funcionamiento1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-moneda-Funcionamiento2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-moneda-MenuCalcular.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-moneda-MenuOpciones.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-moneda-MenuOpciones2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-moneda-MenuOpciones3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-moneda-MenuOpciones4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-moneda-MenuOpcionesSalir.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-moneda-MenuOpcionesSalir2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/imgReadme/Conversor-moneda-Principal.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ConversorJavaGUI/ConversorMonedaInterfazGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ConversorJavaGUI/ConversorMonedaInterfazGUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ConversorJavaGUI/ConversorTemperaturaGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ConversorJavaGUI/ConversorTemperaturaGUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConversorMonedaInterfazGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConversorMonedaInterfazGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConversorTemperaturaGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConversorTemperaturaGUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -3,7 +3,8 @@
 <h1 align="center"> Conversor de Moneda y Temperaturas </h1>
 
 <p align="center">
-   <img src="src/images/conversor-moneda-img.png" alt="logo Monedas">
+   <img src="src/images/conversor-moneda-img.png" alt="logo Monedas" style="margin-right: 90px;">
+<img src="src/images/logoTemperatura.png" alt="logo Temperatura">
 </p>
 
 ## Índice
@@ -12,7 +13,7 @@
 
 * [Estado del proyecto](#estado-del-proyecto)
 
-* [Características de la aplicación y demostración del Proyecto](#Características de la aplicación y demostración del Proyecto)
+* [Características y demostración del Proyecto](#características-y-demostracion-Proyecto)
 
 * [Acceso al proyecto](#acceso-proyecto)
 
@@ -63,7 +64,7 @@ Es hora de sorprender a nuestro cliente con una función que tal vez ni siquiera
 
 </dl>
 
-# Características de la aplicación y demostración del Proyecto
+# Características y demostración del Proyecto
 
 <dl>
   <dt>
@@ -201,11 +202,34 @@ Nota: Estás vista de los menus Opciones, Calcular y Acerca de, son para ambas f
 
 ![Conversor-Temperatura-MenuAcercaDe2.jpg](src%2Fimages%2FimgReadme%2FConversor-Temperatura-MenuAcercaDe2.jpg)
 
+<dd>
+
+- `Video del funcionamiento `
+</dd>
+
+[![video-demo](https://img.youtube.com/vi/20WkPBs7LtI/0.jpg)](https://www.youtube.com/watch?v=20WkPBs7LtI)
+
+
 
 </dl>
 
 # Tecnologías utilizadas
     - Java 17 y la biblioteca Java Swing.
+
+* Links de Regerencia:
+  * `Informacion para crear un readme:`
+    * Plataforma para hacer un readme online: 
+      * https://pandao.github.io/editor.md/en.html
+    * Data guia sobre readme 
+      * https://www.markdownguide.org/extended-syntax
+      * https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github
+
+    * Agregar video al readme: 
+      * https://www.configuroweb.com/como-colocar-video-de-youtube-en-el-archivo-readme-en-github/
+    * Enlaces de requerimientos del programa:
+      * https://trello.com/b/PYUdAu0K/conversor-de-moneda-challenge-one-java
+
+
 
 # Personas Contribuyentes
 ## Autores
