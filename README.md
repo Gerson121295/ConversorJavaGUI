@@ -216,7 +216,7 @@ Nota: Estás vista de los menus Opciones, Calcular y Acerca de, son para ambas f
 # Tecnologías utilizadas
     - Java 17 y la biblioteca Java Swing.
 
-* Links de Regerencia:
+* Enlaces de Referencia:
   * `Informacion para crear un readme:`
     * Plataforma para hacer un readme online: 
       * https://pandao.github.io/editor.md/en.html
@@ -226,8 +226,8 @@ Nota: Estás vista de los menus Opciones, Calcular y Acerca de, son para ambas f
 
     * Agregar video al readme: 
       * https://www.configuroweb.com/como-colocar-video-de-youtube-en-el-archivo-readme-en-github/
-    * Enlaces de requerimientos del programa:
-      * https://trello.com/b/PYUdAu0K/conversor-de-moneda-challenge-one-java
+  * Enlaces de requerimientos del programa:
+    * https://trello.com/b/PYUdAu0K/conversor-de-moneda-challenge-one-java
 
 
 
