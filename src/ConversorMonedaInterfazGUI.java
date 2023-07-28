@@ -27,11 +27,11 @@ public class ConversorMonedaInterfazGUI extends JFrame implements ActionListener
         setLayout(null); //Para coordenadas
         setDefaultCloseOperation(EXIT_ON_CLOSE); //cerrar el programa
         setTitle("Pantalla principal");
-        getContentPane().setBackground(new Color(255,0,0));
+        getContentPane().setBackground(new Color(105, 102, 102)); // establece color rojo de fondo
         setIconImage(new ImageIcon(getClass().getResource("images/icon-monedas.png")).getImage());
 
         mb = new JMenuBar();
-        mb.setBackground(new Color(255,0,0)); //establece color rojo de fondo
+        mb.setBackground(new Color(171, 154, 154)); // 255, 0, 0    establece color rojo de fondo de menu
         setJMenuBar(mb); //mb se agrega como MenuBar
 
         menuOpciones = new JMenu("Opciones");
