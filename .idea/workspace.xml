@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5f30ec6-b6f9-49df-94a0-a1b691e72531" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ConversorTemperaturaGUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ConversorJavaGUI/ConversorT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ConversorJavaGUI/ConversorT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ConversorJavaGUI/conversores/ConversorMoneda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ConversorJavaGUI/conversores/ConversorMoneda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConversorMonedaInterfazGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConversorMonedaInterfazGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conversores/ConversorMoneda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conversores/ConversorMoneda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
